@@ -21,10 +21,6 @@ RUN \
     && echo 'service sendmail restart' >> /usr/local/bin/docker-entrypoint-wrapper.sh \
     && echo 'source /etc/apache2/envvars' >> /usr/local/bin/docker-entrypoint-wrapper.sh \
     && echo 'exec apache2 -D FOREGROUND' >> /usr/local/bin/docker-entrypoint-wrapper.sh \
-    && chmod -R 777 /var/www/html/feedback/Feedback/users.json \
     && chmod +x /usr/local/bin/docker-entrypoint-wrapper.sh
-   
-
-
 EXPOSE 80
 ENTRYPOINT ["docker-entrypoint-wrapper.sh"]
