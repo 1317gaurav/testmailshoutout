@@ -6,27 +6,13 @@ $to = 'gs1465010@gmail.com, gaurav.k@taboola.com'; // note the comma
 $subject = 'Taboola Shoutout Weekly Report';
 
 // Message
-$message = '
-<html>
-<head>
-  <title>Birthday Reminders for August</title>
-</head>
-<body>
-  <p>Here are the birthdays upcoming in August!</p>
-  <table>
-    <tr>
-      <th>Person</th><th>Day</th><th>Month</th><th>Year</th>
-    </tr>
-    <tr>
-      <td>Johny</td><td>10th</td><td>August</td><td>1970</td>
-    </tr>
-    <tr>
-      <td>Sally</td><td>17th</td><td>August</td><td>1973</td>
-    </tr>
-  </table>
-</body>
-</html>
-';
+$message = '<html><body>';
+$message .= '<img src="http://brahmarishisaubhari.com/feedback/Feedback/assets/img/logo.png" alt="Taboola Shoutout Report" />';
+$message .= '<table rules="all" style="border-color: #666;" cellpadding="10">';
+$message .= "<tr style='background: #eee;'><td><strong>Total Shoutout</strong> </td><td>56</td></tr>";
+$message .= "<tr><td><strong>Total Shoutout this week</strong> </td><td>5</td></tr>";
+$message .= "</table>";
+$message .= "</body></html>";
 
 // To send HTML mail, the Content-type header must be set
 $headers[] = 'MIME-Version: 1.0';
