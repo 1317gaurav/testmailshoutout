@@ -33,8 +33,8 @@ $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-$headers[] = 'To: Mary <mary@example.com>, Kelly <kelly@example.com>';
-$headers[] = 'From: Taboola Shoutout <>';
+$headers[] = 'To: Nidhi Sharma <gaurav12@taboola.com>, Hadas <gaurav34@taboola.com>';
+$headers[] = 'From: Taboola Shoutout <Shoutout Report>';
 $headers[] = 'Cc: birthdayarchive@example.com';
 $headers[] = 'Bcc: birthdaycheck@example.com';
 
