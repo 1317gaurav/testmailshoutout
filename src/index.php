@@ -7,8 +7,8 @@ $subject = 'Taboola Shoutout Weekly Report';
 
 // Message
 $message = '
- <div style="width: 570px;
-    height: 300px;
+ <div style="width: 607px;
+    height: 334px;
     padding: 20px;
     padding-top: 0px;
     padding-bottom: 38px;
@@ -25,9 +25,10 @@ $message = '
           <center>
       <span><img src="http://brahmarishisaubhari.com/feedback/Feedback/assets/img/logo.png"/></span> <br/><br/>
          </center>
+<p>Last week shoutout :</p>
 <table rules="all" style="border-color: #666;" cellpadding="10">
-<tr style="background: #eee;"><td><strong>Sender</strong> </td><td><strong>Receiver</strong> </td><td><strong>Manager</strong> </td><td><strong>Quality Exhibited</strong> </td><td><strong>Date</strong> </td></tr>
-<tr><td>digvijay.s@taboola.com</td><td>navin.k@taboola.com</td><td>nuriel.a@taboola.com</td><td>Customer Centricity </td><td>Customer Centricity</td><td>Jun,15,2020 09:09:39 AM</td></tr>
+<tr style="background: #eee; color:#000;"><td><strong>Sender</strong> </td><td><strong>Receiver</strong> </td><td><strong>Manager</strong> </td><td><strong>Quality Exhibited</strong> </td><td><strong>Date</strong> </td></tr>
+<tr><td>digvijay.s@taboola.com</td><td>navin.k@taboola.com</td><td>nuriel.a@taboola.com</td><td>Customer Centricity </td><td>Jun,15,2020 09:09:39 AM</td></tr>
 
 </table>       
 </div>';
