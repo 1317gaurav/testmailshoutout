@@ -18,10 +18,8 @@ $message = '
       <span><img src="http://brahmarishisaubhari.com/feedback/Feedback/assets/img/logo.png"/></span> <br/><br/>
          </center>
 <table rules="all" style="border-color: #666;" cellpadding="10">
-<tr style="background: #eee;"><td><strong>Sender</strong> </td><td><strong>Receiver</strong> </td><td><strong>Quality Exhibited</strong> </td><td><strong>Date</strong> </td></tr>
-<tr><td><strong>Gaurav</strong> </td><td><strong>Roshan</strong> </td><td><strong>Collaboration</strong> </td><td><strong>Jan,23,2020 10:47:04 AM</strong> </td></tr>
-<tr><td><strong>Gaurav</strong> </td><td><strong>Roshan</strong> </td><td><strong>Collaboration</strong> </td><td><strong>Jan,23,2020 10:47:04 AM</strong> </td></tr>
-<tr><td><strong>Gaurav</strong> </td><td><strong>Roshan</strong> </td><td><strong>Collaboration</strong> </td><td><strong>Jan,23,2020 10:47:04 AM</strong> </td></tr>
+<tr style="background: #eee;"><td><strong>Sender</strong> </td><td><strong>Receiver</strong> </td><td><strong>Manager</strong> </td><td><strong>Quality Exhibited</strong> </td><td><strong>Date</strong> </td></tr>
+<tr><td>digvijay.s@taboola.com</td><td>navin.k@taboola.com</td><td>nuriel.a@taboola.com</td><td>Customer Centricity </td><td>Customer Centricity</td><td>Jun,15,2020 09:09:39 AM</td></tr>
 
 </table>       
 </div>';
