@@ -7,17 +7,17 @@ $subject = 'Taboola Shoutout Weekly Report';
 
 // Message
 $message = '
- <div style="width: 695px;
+ <div style="width: 760px;
     height: 382px;
     padding: 20px;
     border: 5px solid #003399;
 
-    color: #003399;">
+">
      
        <br><br>
-       <span style="font-size:18px;text-align: center;"><b>Total Shoutout :<b> 57</b> 
+       <span style="font-size:18px;text-align: center;"><b style="color:#000;">Total Shoutout :<b style="color: #003399"> 57</b> 
 </i></span><br>
-<span style="font-size:18px;text-align: center;"><b>Total Shoutout This Week :<b> 1</b> 
+<span style="font-size:18px;text-align: center;"><b style="color:#000;">Total Shoutout This Week :<b style="color: #003399"> 1</b> 
 </i></span><br><br>
           <center>
       <span><img src="http://brahmarishisaubhari.com/feedback/Feedback/assets/img/logo.png"/></span> <br/><br/>
