@@ -31,10 +31,9 @@ $headers[] = 'MIME-Version: 1.0';
 $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
-$headers[] = 'To: Nidhi Sharma <gaurav12@taboola.com>, Hadas <gaurav34@taboola.com>';
+$headers[] = 'To: Nidhi Sharma <gaurav.k@taboola.com>, Hadas <gaurav34@taboola.com>';
 $headers[] = 'From: Shoutout Report<noreply>';
-$headers[] = 'Cc: birthdayarchive@example.com';
-$headers[] = 'Bcc: birthdaycheck@example.com';
+$headers[] = 'Cc: gs1465010@gmail.com, gaurav.srs@hotmail.com, gaurav1317@icloud.com';
 
 // Mail it
 mail($to, $subject, $message, implode("\r\n", $headers));
