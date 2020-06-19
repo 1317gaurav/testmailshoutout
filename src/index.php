@@ -1,6 +1,6 @@
 <?php
 // Multiple recipients
-$to = 'gs1465010@gmail.com, gaurav.k@taboola.com'; // note the comma
+$to = 'jay.s@taboola.com, gaurav.k@taboola.com'; // note the comma
 
 // Subject
 $subject = 'Taboola Shoutout Weekly Report';
