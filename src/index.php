@@ -36,7 +36,7 @@ $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
 $headers[] = 'From: Shoutout Report<noreply>';
-$headers[] = 'Cc:';
+$headers[] = 'Cc: gaurav1317@icloud.com,gaurav1317@icloud.com';
 $headers[] = 'Bcc: gaurav.k@taboola.com';
 
 // Mail it
