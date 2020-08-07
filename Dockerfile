@@ -1,7 +1,9 @@
 FROM php:7.3-apache
 COPY src /var/www/html
 RUN \
-    rm -rf /var/lib/apt/lists/* \
+    apt-get update \
+    && apt-get install -y --no-install-recommends sendmail \
+    && rm -rf /var/lib/apt/lists/* \
     && echo "sendmail_path=sendmail -t -i" >> /usr/local/etc/php/conf.d/sendmail.ini \
     && echo "smtp=ildcsmtp.office.taboola.com" >> /usr/local/etc/php/conf.d/sendmail.ini \
     && echo "smtp_server=ildcsmtp.office.taboola.com" >> /usr/local/etc/php/conf.d/sendmail.ini \
