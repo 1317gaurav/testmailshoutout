@@ -14,7 +14,7 @@ $message = '
 ">
      
        <br><br>
-       <span style="font-size:18px;text-align: center;"><b style="color:#000;">Total shoutout sent since launch :<b style="color: #003399"> 60</b> 
+       <span style="font-size:18px;text-align: center;"><b style="color:#000;">Total shoutout sent since launch :<b style="color: #003399"> 62</b> 
 </i></span><br>
 <span style="font-size:18px;text-align: center;"><b style="color:#000;">Shoutout sent this week :<b style="color: #003399"> 2</b> 
 </i></span><br><br>
