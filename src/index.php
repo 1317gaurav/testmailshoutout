@@ -8,7 +8,7 @@ $subject = 'Taboola Shoutout Weekly Report';
 // Message
 $message = '
  <div style="width: 760px;
-    height: 600px;
+    height: 462px;
     padding: 20px;
     border: 5px solid #003399;
 ">
