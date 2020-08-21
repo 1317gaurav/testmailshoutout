@@ -24,10 +24,10 @@ $message = '
 <p style="color:#000;">Details of shoutout sent this week :</p>
 <table rules="all" style="border-color:#666" cellpadding="10">
 <tbody><tr style="background:#eee;color:#000"><td><strong>Sender</strong> </td><td><strong>Receiver</strong> </td><td><strong>Manager</strong> </td><td><strong>Quality Exhibited</strong> </td><td><strong>Date</strong> </td></tr>
-<tr><td><a href="anurag.k@taboola.com" target="_blank">anurag.k@taboola.com</a></td><td><a href="roshan.c@taboola.com" target="_blank">roshan.c@taboola.com</a></td><td><a href="sudip.c@taboola.com" target="_blank">sudip.c@taboola.com</a></td><td>Empowering</td><td>Aug,14,2020 09:35:50 AM</td></tr>
-<tr><td><a href="diwakar.m@taboola.com" target="_blank">diwakar.m@taboola.com</a></td><td><a href="bp_ti@taboola.com" target="_blank">bp_ti@taboola.com</a></td><td><a href="digvijay.s@taboola.com" target="_blank">digvijay.s@taboola.com</a></td><td>Collaboration</td><td>Aug,14,2020 04:21:14 PM</td></tr>
-<tr><td><a href="diwakar.m@taboola.com" target="_blank">diwakar.m@taboola.com</a></td><td><a href="bp_ti@taboola.com" target="_blank">bp_ti@taboola.com</a></td><td><a href="digvijay.s@taboola.com" target="_blank">digvijay.s@taboola.com</a></td><td>Collaboration</td><td>Aug,14,2020 04:21:14 PM</td></tr>
-<tr><td><a href="diwakar.m@taboola.com" target="_blank">diwakar.m@taboola.com</a></td><td><a href="bp_ti@taboola.com" target="_blank">bp_ti@taboola.com</a></td><td><a href="digvijay.s@taboola.com" target="_blank">digvijay.s@taboola.com</a></td><td>Collaboration</td><td>Aug,14,2020 04:21:14 PM</td></tr>
+<tr><td><a href="sudip.c@taboola.com" target="_blank">sudip.c@taboola.com</a></td><td><a href="rohit.s@taboola.com" target="_blank">rohit.s@taboola.com</a></td><td><a href="jay.s@taboola.com" target="_blank">jay.s@taboola.com</a></td><td>Empowering</td><td>Aug,20,2020 06:22:38 PM</td></tr>
+<tr><td><a href="sudip.c@taboola.com" target="_blank">sudip.c@taboola.com</a></td><td><a href="roshan.c@taboola.com" target="_blank">roshan.c@taboola.com</a></td><td><a href="jay.s@taboola.com" target="_blank">jay.s@taboola.com</a></td><td>Be an Expert</td><td>Aug,20,2020 06:34:32 PM</td></tr>
+<tr><td><a href="sudip.c@taboola.com" target="_blank">sudip.c@taboola.com</a></td><td><a href="gaurav.k@taboola.com" target="_blank">gaurav.k@taboola.com</a></td><td><a href="jay.s@taboola.com" target="_blank">jay.s@taboola.com</a></td><td>Be an Expert</td><td>Aug,20,2020 06:41:58 PM</td></tr>
+<tr><td><a href="rohit.s@taboola.com" target="_blank">rohit.s@taboola.com</a></td><td><a href="chirag.v@taboola.com" target="_blank">chirag.v@taboola.com</a></td><td><a href="gangesh.k@taboola.com" target="_blank">gangesh.k@taboola.com</a></td><td>Collaboration</td><td>Aug,20,2020 08:16:55 PM</td></tr>
 
 </tbody></table>
 </div>';
