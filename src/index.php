@@ -1,6 +1,6 @@
 <?php
 // Multiple recipients
-$to = 'gaurav.k@taboola.com'; // note the comma
+$to = 'nidhi.s@taboola.com, hadas.shmueli@taboola.com'; // note the comma
 
 // Subject
 $subject = 'Taboola Shoutout Weekly Report';
@@ -35,7 +35,7 @@ $headers[] = 'Content-type: text/html; charset=iso-8859-1';
 
 // Additional headers
 $headers[] = 'From: Shoutout Report<noreply>';
-$headers[] = 'Cc: ';
+$headers[] = = 'Cc: jay.s@taboola.com,harel.u@taboola.com,sudip.c@taboola.com';
 $headers[] = 'Bcc: gaurav.k@taboola.com';
 
 // Mail it
